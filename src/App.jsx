@@ -286,10 +286,10 @@ function App() {
             <div className="collapse"><font></font>
               <input type="checkbox" className="peer" /> <font></font>
               <div className="collapse-title bg-primary text-primary-content peer-checked:bg-secondary peer-checked:text-secondary-content"><font></font>
-                クリック<font></font>
+                問い合わせ<font></font>
               </div><font></font>
               <div className="collapse-content bg-primary text-primary-content peer-checked:bg-secondary peer-checked:text-secondary-content"> <font></font>
-                <p>こんにちは</p><font></font>
+                <p>メールアドレス</p><font></font>
               </div><font></font>
             </div>
             
