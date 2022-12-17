@@ -1,12 +1,12 @@
 import { useState } from 'react'
 import './App.css'
 import 'tw-elements';
-
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <div className="App">
+      <div class='light'>
 
       <div className="navbar bg-base-100"><font></font>
         <div className="navbar-start"><font></font>
@@ -544,7 +544,7 @@ function App() {
       </section>
       */}
       
-      
+      </div>  
     </div>
   )
 }
