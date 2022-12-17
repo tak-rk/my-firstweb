@@ -289,7 +289,7 @@ function App() {
                 問い合わせ<font></font>
               </div><font></font>
               <div className="collapse-content bg-primary text-primary-content peer-checked:bg-secondary peer-checked:text-secondary-content"> <font></font>
-                <p>メールアドレス</p><font></font>
+                <p>なんとかかんとか@mail</p><font></font>
               </div><font></font>
             </div>
             
