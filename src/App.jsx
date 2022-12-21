@@ -8,7 +8,6 @@ function App() {
   
   const [count, setCount] = useState(0)
   const MyComponent = () => {
-    // darkMode stateをfalseに設定することで、ダークモードを無効にする
     const [darkMode, setDarkMode] = useState(false)
   }
 
