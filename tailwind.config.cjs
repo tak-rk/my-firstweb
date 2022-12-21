@@ -5,11 +5,18 @@ module.exports = {
     './src/**/*.{html,js}', './node_modules/tw-elements/dist/js/**/*.js'
   ],
   theme: {
-    extend: {},
+    extend: {
+      'primary': '#333',
+        'secondary': '#666',
+        'dark': {
+          'primary': '#ccc',
+          'secondary': '#999',
+        },
+    },
   },
   plugins: [
     require("daisyui",'tw-elements/dist/plugin'),
   ],
-  darkMode:'false'
+  darkMode:'false',
   
 }
