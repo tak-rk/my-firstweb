@@ -3,6 +3,21 @@ import './App.css'
 import 'tw-elements';
 function App() {
   const [count, setCount] = useState(0)
+  const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)');
+  const theme = React.useMemo(
+    () =>
+      createTheme({
+        palette: {
+          mode: prefersDarkMode ? 'light' : 'light',
+        },
+      }),
+    [prefersDarkMode],
+  );
+
+
+
+
+
 
   return (
     <div className="App">
