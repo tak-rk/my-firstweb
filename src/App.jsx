@@ -2,6 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import 'tw-elements';
 function App() {
+  const [darkMode, setDarkMode] = useState(false)
   const [count, setCount] = useState(0)
 
 
