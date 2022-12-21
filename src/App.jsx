@@ -1,8 +1,14 @@
 import { useState } from 'react'
 import './App.css'
 import 'tw-elements';
-function App() {
+
+const MyComponent = () => {
+  // darkMode stateをfalseに設定することで、ダークモードを無効にする
   const [darkMode, setDarkMode] = useState(false)
+}
+
+function App() {
+  
   const [count, setCount] = useState(0)
 
 
