@@ -4,6 +4,12 @@ module.exports = {
     "./src/**/*.{vue,js,ts,jsx,tsx}",
     './src/**/*.{html,js}', './node_modules/tw-elements/dist/js/**/*.js'
   ],
+  defalteTheme:{
+    extend:{
+      backgroundColor:'primmary',
+      textColor:'secondary',
+    },
+  },
   theme: {
     extend: {
       'primary': '#333',
