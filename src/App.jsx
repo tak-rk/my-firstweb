@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="App">
-      <div class='light'>
+      <div class='light bg-white'>
 
       <div className="navbar bg-base-100"><font></font>
         <div className="navbar-start"><font></font>
