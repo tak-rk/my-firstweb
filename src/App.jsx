@@ -179,7 +179,7 @@ function App() {
         {/*<!-- Carousel [end] -->*/}
 
 
-          <section class="space-y-10 ">
+          <section class="space-y-10 " data-theme="light">
             <div class='text-center bg-base-50'>
               <p class="text-[46px] font-black">形にできなかったものを</p>
               <p class="text-[46px] font-black">形に致します</p>            
