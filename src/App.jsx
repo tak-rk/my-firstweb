@@ -180,7 +180,7 @@ function App() {
 
 
           <section class="space-y-10 ">
-            <div class='text-center '>
+            <div class='text-center daisy-secondary'>
               <p class="text-[46px] font-black">形にできなかったものを</p>
               <p class="text-[46px] font-black">形に致します</p> 
             </div>
