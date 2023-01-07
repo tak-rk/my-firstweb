@@ -180,11 +180,9 @@ function App() {
 
 
           <section class="space-y-10 ">
-            <div class='text-center '>
-              <div style={{ backgroundColor: 'var(--daisy-secondary)' }}> 
-                <p class="text-[46px] font-black">形にできなかったものを</p>
-                <p class="text-[46px] font-black">形に致します</p> 
-              </div>             
+            <div class='text-center bg-secondary'>
+              <p class="text-[46px] font-black">形にできなかったものを</p>
+              <p class="text-[46px] font-black">形に致します</p>            
             </div>
 
             <div className='font-semibold text-left '>
