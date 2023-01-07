@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <div class='light'>
+      <div class=''>
 
         <div className="navbar bg-base-100"><font></font>
           <div className="navbar-start"><font></font>
@@ -317,6 +317,7 @@ function App() {
                 </div>
               </div>
             </footer>
+            <progress className="progress w-56"></progress>
             
 
 
