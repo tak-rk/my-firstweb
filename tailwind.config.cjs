@@ -15,6 +15,9 @@ module.exports = {
   plugins: [
     require("daisyui",'tw-elements/dist/plugin'),
   ],
+  daisyui:{
+    themes:false
+  },
   corePlugins:{
     darkMode:false,
   },
