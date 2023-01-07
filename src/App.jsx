@@ -180,18 +180,18 @@ function App() {
 
 
           <section class="space-y-10 ">
-            <div class='text-center bg-gray-100'>
+            <div class='text-center '>
               <p class="text-[46px] font-black">形にできなかったものを</p>
               <p class="text-[46px] font-black">形に致します</p> 
             </div>
 
-            <div className='font-semibold text-left bg-gray-50'>
+            <div className='font-semibold text-left '>
               <p class="">BLANCeは、実現したいブランド戦略・マーケティング戦略を、</p>
               <p class="">高いデザイン力/UX・UI実装力/効果的な演出で、</p>
               <p class="">クリエイティブやシステムに落とし込む、web・アプリ会社です。</p>
             </div> 
 
-            <div className='font-medium text-left text-sm bg-gray-50'>
+            <div className='font-medium text-left text-sm '>
               <p class="">BLANCeは、実現したいブランド戦略・マーケティング戦略を、</p>
               <p class="">高いデザイン力/UX・UI実装力/効果的な演出で、</p>
               <p class="">クリエイティブやシステムに落とし込む、web・アプリ会社です。</p>
@@ -257,7 +257,7 @@ function App() {
               </tbody>
             </table>
 
-            <h2 class="text-left text-[30px] font-bold bg-gray-100">- ソリューション</h2>
+            <h2 class="text-left text-[30px] font-bold ">- ソリューション</h2>
             {/*<!-- Right Area2[start] -->*/}
             <div class="flex flex-col">
               <div class="flex">
