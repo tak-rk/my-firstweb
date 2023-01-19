@@ -243,29 +243,6 @@ function App() {
       </div>  
     </div>
   )
-  function MyComponent() {
-    const [width, setWidth] = useState(window.innerWidth);
-    const isMobile = width <= 576;
-  
-    useEffect(() => {
-      function handleResize() {
-        setWidth(window.innerWidth);
-      }
-  
-      window.addEventListener('resize', handleResize);
-      return () => {
-        window.removeEventListener('resize', handleResize);
-      };
-    }, []);
-  
-    return (
-      <div className={`${isMobile ? '' : 'hidden'} sm:block`}>
-        {/* Your component here */}
-      </div>
-    );
-  }
-  
-  export default MyComponent;
   
   
   
