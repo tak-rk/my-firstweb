@@ -223,7 +223,7 @@ function App() {
             </footer>
             <progress className="progress w-56"></progress>
             
-            <div class="hidden:sm">
+            <div class="d-sm">
               {/* component here */}
               <div className="btm-nav">
                 <button>
