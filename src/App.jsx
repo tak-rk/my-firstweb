@@ -166,7 +166,7 @@ function App() {
             <div class="flex flex-col">
               <div class="flex">
                 <div class="w-1/4 ">
-                  <div class="flex flex-col space-y-10 md:space-y-40 text-[50px]">
+                  <div class="flex flex-col space-y-10  text-[50px]">
                     <p class="bg-gray-100">1</p>
                     <p class="bg-gray-100">2</p>
                     <p class="bg-gray-100">3</p>
