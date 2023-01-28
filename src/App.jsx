@@ -177,8 +177,7 @@ function App() {
               <div className="divider divider-horizontal"></div>
               <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">
                 <p class="font-bold">機能・UI・ビジュアルの部分開発（web、アプリ）</p>
-                実装の難しいデータビジュアライゼーション / 3D / UX・UI / モーショングラフィクス等
-                を、コンテンツ全体はもちろん、一部分の開発も可能です
+                実装の難しいデータビジュアライゼーション / 3D / UX・UI / モーショングラフィクス等を、コンテンツ全体はもちろん、一部分の開発も可能です
               </div>
             </div>
             <div className="flex w-full">
@@ -186,7 +185,7 @@ function App() {
               <div className="divider divider-horizontal"></div>
               <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">
                 <p class="font-bold">ゲーム開発（web、アプリ）</p>
-                <p>ゲームの企画、ロジックの実装が可能です。</p>
+                ゲームの企画、ロジックの実装が可能です。
               </div>
             </div>
             <div className="flex w-full">
@@ -194,8 +193,7 @@ function App() {
               <div className="divider divider-horizontal"></div>
               <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">
                 <p class="font-bold">プロダクト開発（webサービス・アプリ)</p>
-                <p>情報を提供するサイト・アプリではなく、入出金管理サービス / 情報可視化ツール /</p>
-                <p>ECサイト / SNSなど、ユーザーに機能を提供するサイト・アプリを開発が可能です。</p>
+                情報を提供するサイト・アプリではなく、入出金管理サービス / 情報可視化ツール /ECサイト / SNSなど、ユーザーに機能を提供するサイト・アプリを開発が可能です。
               </div>
             </div>
             {/*<!-- Right Area2[start] -->*/}
