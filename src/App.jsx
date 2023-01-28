@@ -242,7 +242,7 @@ function App() {
                 </div>
                   
               </div>
-            </div>?
+                  </div>*/}
 
 
 
@@ -267,7 +267,7 @@ function App() {
                 </div>
               </div>
             </footer>
-                  <progress className="progress w-56"></progress>*/}
+                  <progress className="progress w-56"></progress>
           
             <div class="sm:hidden">
               {/* component here */}
