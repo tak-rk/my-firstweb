@@ -173,6 +173,32 @@ function App() {
                 <p>・ブランディング視点（お客様がユーザーに与えたい印象・体験を得られるコンテンツ）</p>
               </div>
             </div>
+            <div className="flex w-full">
+              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center bg-gray-100">2</div>
+              <div className="divider divider-horizontal"></div>
+              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">
+                <p class="font-bold">機能・UI・ビジュアルの部分開発（web、アプリ）</p>
+                <p>実装の難しいデータビジュアライゼーション / 3D / UX・UI / モーショングラフィクス等</p>
+                <p>を、コンテンツ全体はもちろん、一部分の開発も可能です。</p>
+              </div>
+            </div>
+            <div className="flex w-full">
+              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center bg-gray-100">3</div>
+              <div className="divider divider-horizontal"></div>
+              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">
+                <p class="font-bold">ゲーム開発（web、アプリ）</p>
+                <p>ゲームの企画、ロジックの実装が可能です。</p>
+              </div>
+            </div>
+            <div className="flex w-full">
+              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center bg-gray-100">4</div>
+              <div className="divider divider-horizontal"></div>
+              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">
+                <p class="font-bold">プロダクト開発（webサービス・アプリ)</p>
+                <p>情報を提供するサイト・アプリではなく、入出金管理サービス / 情報可視化ツール /</p>
+                <p>ECサイト / SNSなど、ユーザーに機能を提供するサイト・アプリを開発が可能です。</p>
+              </div>
+            </div>
             {/*<!-- Right Area2[start] -->*/}
             <div class="flex flex-col">
               <div class="flex">
