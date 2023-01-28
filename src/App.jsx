@@ -177,8 +177,8 @@ function App() {
               <div className="divider divider-horizontal"></div>
               <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">
                 <p class="font-bold">機能・UI・ビジュアルの部分開発（web、アプリ）</p>
-                <p>実装の難しいデータビジュアライゼーション / 3D / UX・UI / モーショングラフィクス等</p>
-                <p>を、コンテンツ全体はもちろん、一部分の開発も可能です。</p>
+                実装の難しいデータビジュアライゼーション / 3D / UX・UI / モーショングラフィクス等
+                を、コンテンツ全体はもちろん、一部分の開発も可能です
               </div>
             </div>
             <div className="flex w-full">
