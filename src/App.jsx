@@ -164,7 +164,7 @@ function App() {
             <h2 class="text-left text-[30px] font-bold ">- ソリューション</h2>
             <div className="collapse">
               <input type="checkbox" /> 
-              <div className="collapse-title text-xl font-medium">
+              <div className="collapse-title text-xl font-medium bg-gray-100">
                 web制作
               </div>
               <div className="collapse-content"> 
