@@ -162,9 +162,21 @@ function App() {
             </table>
 
             <h2 class="text-left text-[30px] font-bold ">- ソリューション</h2>
+            <div className="collapse">
+              <input type="checkbox" /> 
+              <div className="collapse-title text-xl font-medium">
+                web制作
+              </div>
+              <div className="collapse-content"> 
+                <p>お客様の目的に合わせて、</p>
+                <p>・ブランディング視点（お客様がユーザーに与えたい印象・体験を得られるコンテンツ）</p>
+                <p>・マーケティング視点（集客から最終的なコンバージョンを意識したコンテンツ）</p>
+                <p>・機能視点（CMS、キャンペーン管理画面などの使いやすさ）</p>
+                <p>を使い分け、コンテンツ（webからアプリ、サイネージまで）を制作致します。</p>
+              </div>
+            </div>
 
-
-            
+          
             {/*<!-- Right Area2[start] -->*/}
             <div class="flex flex-col">
               <div class="flex">
@@ -181,6 +193,7 @@ function App() {
                     <p class="font-bold border-b-4 boder-black ">web制作</p>
                     <p>お客様の目的に合わせて、</p>
                     <p>・ブランディング視点（お客様がユーザーに与えたい印象・体験を得られるコンテンツ）</p>
+                    <p></p>
                   </div>
                   <div>
                     <p class="font-bold border-b-4 boder-black">機能・UI・ビジュアルの部分開発（web、アプリ）</p>
