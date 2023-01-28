@@ -178,7 +178,7 @@ function App() {
 
           
             {/*<!-- Right Area2[start] -->*/}
-            <div class="flex flex-col md:hidden">
+            <div class="flex flex-col">
               <div class="flex">
                 <div class="w-1/4 ">
                   <div class="flex flex-col space-y-10  text-[50px]">
