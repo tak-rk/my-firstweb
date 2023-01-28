@@ -178,7 +178,7 @@ function App() {
 
             <div className="collapse">
               <input type="checkbox" /> 
-              <div className="collapse-title text-xl font-medium">
+              <div className="collapse-title text-xl font-medium bg-gray-100">
                 機能・UI・ビジュアルの部分開発（web、アプリ）
               </div>
               <div className="collapse-content"> 
@@ -189,7 +189,7 @@ function App() {
 
             <div className="collapse">
               <input type="checkbox" /> 
-              <div className="collapse-title text-xl font-medium">
+              <div className="collapse-title text-xl font-medium bg-gray-100">
                 ゲーム開発（web、アプリ）
               </div>
               <div className="collapse-content"> 
@@ -199,7 +199,7 @@ function App() {
 
             <div className="collapse">
               <input type="checkbox" /> 
-              <div className="collapse-title text-xl font-medium">
+              <div className="collapse-title text-xl font-medium bg-gray-100">
                 プロダクト開発（webサービス・アプリ)
               </div>
               <div className="collapse-content"> 
@@ -208,7 +208,7 @@ function App() {
               </div>
             </div>
             {/*<!-- Right Area2[start] -->*/}
-            <div class="flex flex-col">
+            {/*<div class="flex flex-col">
               <div class="flex">
                 <div class="w-1/4 ">
                   <div class="flex flex-col space-y-10  text-[50px]">
@@ -242,7 +242,7 @@ function App() {
                 </div>
                   
               </div>
-            </div>
+            </div>?
 
 
 
@@ -267,8 +267,8 @@ function App() {
                 </div>
               </div>
             </footer>
-            <progress className="progress w-56"></progress>
-            
+                  <progress className="progress w-56"></progress>*/}
+          
             <div class="sm:hidden">
               {/* component here */}
               <div className="btm-nav ">
