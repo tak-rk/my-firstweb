@@ -165,7 +165,7 @@ function App() {
 
 
             <div className="flex w-full">
-              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center text-[50px] bg-gray-100">1</div>
+              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center bg-gray-100">1</div>
               <div className="divider divider-horizontal">OR</div>
               <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">
                 <p class="font-bold border-b-4 boder-black ">web制作</p>
