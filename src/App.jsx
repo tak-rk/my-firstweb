@@ -176,7 +176,37 @@ function App() {
               </div>
             </div>
 
-          
+            <div className="collapse">
+              <input type="checkbox" /> 
+              <div className="collapse-title text-xl font-medium">
+                機能・UI・ビジュアルの部分開発（web、アプリ）
+              </div>
+              <div className="collapse-content"> 
+                <p>実装の難しいデータビジュアライゼーション / 3D / UX・UI / モーショングラフィクス等</p>
+                <p>を、コンテンツ全体はもちろん、一部分の開発も可能です。</p>
+              </div>
+            </div>
+
+            <div className="collapse">
+              <input type="checkbox" /> 
+              <div className="collapse-title text-xl font-medium">
+                ゲーム開発（web、アプリ）
+              </div>
+              <div className="collapse-content"> 
+                <p>ゲームの企画、ロジックの実装が可能です。</p>
+              </div>
+            </div>
+
+            <div className="collapse">
+              <input type="checkbox" /> 
+              <div className="collapse-title text-xl font-medium">
+                プロダクト開発（webサービス・アプリ)
+              </div>
+              <div className="collapse-content"> 
+                <p>情報を提供するサイト・アプリではなく、入出金管理サービス / 情報可視化ツール /</p>
+                <p>ECサイト / SNSなど、ユーザーに機能を提供するサイト・アプリを開発が可能です。</p>
+              </div>
+            </div>
             {/*<!-- Right Area2[start] -->*/}
             <div class="flex flex-col">
               <div class="flex">
