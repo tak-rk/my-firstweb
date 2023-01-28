@@ -165,9 +165,13 @@ function App() {
 
 
             <div className="flex w-full">
-              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">content</div>
+              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center text-[50px] bg-gray-100">1</div>
               <div className="divider divider-horizontal">OR</div>
-              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">content</div>
+              <div className="grid h-20 flex-grow card bg-base-300 rounded-box place-items-center">
+                <p class="font-bold border-b-4 boder-black ">web制作</p>
+                <p>お客様の目的に合わせて、</p>
+                <p>・ブランディング視点（お客様がユーザーに与えたい印象・体験を得られるコンテンツ）</p>
+              </div>
             </div>
             {/*<!-- Right Area2[start] -->*/}
             <div class="flex flex-col">
